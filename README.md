@@ -1,1 +1,1 @@
-Hi. This is where we come together.
+Hi. This is where we are at the moment. I have completed the HTML basics and on my way to complete my very first project for the "Odin Project".
